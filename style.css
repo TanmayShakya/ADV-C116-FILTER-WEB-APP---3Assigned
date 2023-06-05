@@ -1,0 +1,15 @@
+h3{
+     font-size:25px !important ;
+     letter-spacing: 5;
+}
+
+button{
+    font-size:20px !important ;
+    letter-spacing: 5;
+}
+
+canvas{
+    border-color: black;
+    border-radius: 10px;
+    border-style: dotted;
+}
